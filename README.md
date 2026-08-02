@@ -10,6 +10,7 @@
 
 > [!IMPORTANT]
 > Unless you have the [Remote Notifications for Just Natsuki](https://github.com/Zombie-Bdev/Remote-Notifications-for-Just-Natsuki/tree/main) mod by [Zombie_B](https://github.com/Zombie-Bdev) installed, this mod only works on Windows. (At least I think so, I don't have anyone to test.)
+> 
 > This is an unofficial submod for Just Natsuki, a mod for Doki Doki Literature Club.
 > It is not affiliated with Team Salvato in any way.
 > And it is not affiliated with the Just Natsuki Team in any way either.
