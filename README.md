@@ -15,7 +15,7 @@
 > It is not affiliated with Team Salvato in any way.
 > And it is not affiliated with the Just Natsuki Team in any way either.
 >
-> As of version 1, there is currently no way to toggle the mod, I will be adding one soon.
+> As of version 1.1.0, You can now toggle the notifications on and off via the in-game settings (Specifically, the Activity notifications)
 >
 > Please remember to always back up your persistent file, which can be found in ```%APPDATA%\RenPy\JustNatsuki```
 
